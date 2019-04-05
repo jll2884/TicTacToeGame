@@ -1,2 +1,2 @@
 # TicTacToeGame
-own implementation of tic tac toe game.
+simple Tic Tac Toe game using html, css and javascript
