@@ -34,7 +34,7 @@ clicks=0;
 
 playAgain.addEventListener('click',function(){ //Resets everything
     for(let i = 0;i<squares.length;i++){
-        squares[i].textContent= ''
+        squares[i].textContent= '';
         squares[i].classList.remove('avoid-clicks')
 }
 player =false;
